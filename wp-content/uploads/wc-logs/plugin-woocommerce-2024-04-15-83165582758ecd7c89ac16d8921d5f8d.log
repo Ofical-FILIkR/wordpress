@@ -1,0 +1,2 @@
+2024-04-15T09:40:59+00:00 DEBUG Automattic\WooCommerce\Internal\DataStores\Orders\DataSynchronizer::get_current_orders_pending_sync_count был вызван, но типы заказов не были зарегистрированы: возможно, он был вызван слишком рано.
+2024-04-15T12:31:57+00:00 INFO Payment gateway enabled: "Оплата при доставке"
